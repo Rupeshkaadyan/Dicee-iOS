@@ -1,31 +1,53 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+🎲 Dice App (SwiftUI)
 
-# Dicee
+A simple iOS Dice app built using SwiftUI.
+Tap the button to roll the dice and get a random result every time.
+This project helped me practice Swift basics like arrays, random numbers, loops, and state management.
 
-## Our Goal
+⸻
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+📱 Features
+	•	🎲 Random dice roll on button tap
+	•	🖼️ Dice image changes dynamically
+	•	🔁 Prevents repeating the same dice/image consecutively
+	•	✨ Smooth animations using SwiftUI
+	•	🧠 Clean and beginner-friendly logic
 
-## What you will create
+⸻
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+🛠️ Technologies Used
+	•	Swift
+	•	SwiftUI
+	•	Xcode
+	•	iOS Simulator
 
+⸻
 
-## What you will learn
+🧩 What I Learned
+	•	Using @State to update UI
+	•	Generating random numbers with Int.random(in:)
+	•	Working with arrays
+	•	Using while loops to avoid duplicate values
+	•	String interpolation for dynamic image names
+	•	Basic SwiftUI layout and animations
 
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
-* Create links between the Interface Builder files and code using IBActions and IBOutlets.
-* Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
+⸻
 
+🚀 How to Run
+	1.	Clone this repository
+	2.	Open the project in Xcode
+	3.	Select an iOS Simulator
+	4.	Press Run (▶︎)
 
+⸻
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+📌 Notes
 
-![End Banner](Documentation/readme-end-banner.png)
+This is a learning project created to strengthen my understanding of Swift and SwiftUI fundamentals.
+More features and improvements may be added in the future.
 
+⸻
+
+👨‍💻 Author
+
+Built with ❤️ by Rupesh Kadyan
